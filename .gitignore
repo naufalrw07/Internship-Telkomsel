@@ -1,0 +1,31 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE / editor
+.vscode/
+.idea/
+.DS_Store
+
+# Logs & temp
+*.log
+*.out
+*.tmp
+
+# Environment / secrets
+.env
+
+# Models & artifacts
+*.h5
+*.pkl
+*.joblib
+
+# Datasets (opsional, kalau gak mau masuk repo)
+*.csv
+*.xlsx
